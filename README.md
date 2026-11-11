@@ -1,6 +1,6 @@
 # Physics Unified
 
-**A structured, equation-first collection of physics theory and revision notes, organized around H. C. Verma's _Concepts of Physics_ (Volumes 1 and 2).**
+**A structured, equation-first collection of physics theory and revision notes, organized around H. C. Verma's _Concepts of Physics_ (Volume 1 & Volume 2).**
 
 From units and vectors to Newtonian mechanics, waves, electromagnetism, quantum phenomena, and special relativity, this repository brings the **47-chapter theory sequence** into **seven connected Markdown units**.
 
