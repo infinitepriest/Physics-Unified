@@ -1,4 +1,4 @@
-# Physics Unified
+# **Physics Unified**
 
 **A structured, equation-first collection of physics theory and revision notes, organized around H. C. Verma's _Concepts of Physics_ (Volume 1 & Volume 2).**
 
